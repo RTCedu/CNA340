@@ -1,0 +1,74 @@
+Alan@DESKTOP-09HCSVE MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Asignment.py
+ Asignment.zip
+ Contacts/
+ Cookies@
+ Desktop/
+ dir
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NetHood@
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TM.blf
+ NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ Number
+ number111.py
+ NumberGussingGame.py
+ NumberGussingGame1.py
+ NumberGussingGame1.zip
+ OneDrive/
+'OneDrive - Renton Technical College'/
+ Pictures/
+ PrintHood@
+ PycharmProjects/
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+
+Alan@DESKTOP-09HCSVE MINGW64 ~
+$ cd Do
+Documents/ Downloads/
+
+Alan@DESKTOP-09HCSVE MINGW64 ~
+$ cd Do
+Documents/ Downloads/
+
+Alan@DESKTOP-09HCSVE MINGW64 ~
+$ cd Do
+Documents/ Downloads/
+
+Alan@DESKTOP-09HCSVE MINGW64 ~
+$ cd Documents/GitHub/CNA340_Alan/CNA340/
+
+Alan@DESKTOP-09HCSVE MINGW64 ~/Documents/GitHub/CNA340_Alan/CNA340 (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        CNA340/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Alan@DESKTOP-09HCSVE MINGW64 ~/Documents/GitHub/CNA340_Alan/CNA340 (master)
