@@ -1,10 +1,10 @@
-# Project Title
+# Pythong Arrow
 
-One Paragraph of project description goes here
+Creates a user defined arrow.
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo]
+These instructions will take user inputs to define demensions and print an aske arrow on your local machine for [development/experimentation/demo]
 
 ### Prerequisites
 
@@ -20,7 +20,7 @@ sudo apt install package1 package2
 Once installed you can run the program with the following command
 
 ```
-python demo.py
+python arrow.py
 ```
 
 Add any additional ways to run the program below
@@ -30,4 +30,6 @@ python demo.py test.txt
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Provide thank yous and attributions here. 
+Thanks to Exhoschi for his video in https://www.youtube.com/watch?v=XdhuWDdu-rk
+If someone helped you, you looked at another repository, or another article, provide it here.
