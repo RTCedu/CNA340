@@ -1,33 +1,26 @@
-# Project Title
-
-One Paragraph of project description goes here.
 
 ## Getting Started
-
-These instructions will [do something] on your local machine for [development/experimentation/demo]
+These instructions will install Pycharm on your local machine.
 
 ### Prerequisites
-
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
-
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
+Python requires Pycharm to run, with with no other packages. The link to Pycharm's download will install Pycharm onto your system. 
+Link: [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows) 
 
 ## Running
-Once installed you can run the program with the following command
+Once Pycharm is installed on your system you can run it:
+click on create new project.
+Copy and paste code into Pycharm. 
+
+**4.17 LAB: Warm up: Automobile service cost**
+```
 
 ```
-python cna_demo.py
+Oil change
+``` 
+*Output*
 ```
 
-Add any additional ways to run the program below
-
-```
-python cna_demo.py test.txt
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+To Luma for showing me how to edit the readme file!
