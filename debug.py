@@ -1,4 +1,9 @@
+
+#function given in the question
 def lone_sum(a, b, c):
+    #sum contain the sum of 3 values in a,b and c
+    sum = a + b + c
+
     if a >= b:
         return c
     elif a == c:
@@ -8,9 +13,13 @@ def lone_sum(a, b, c):
     elif a == b and a == c and b == c:
         return 0
     else:
-        return a+b+c
 
-print("lone_sum of 10, 10, 10 should be 0: " + str(lone_sum(10, 10, 10)))
-print("lone_sum of 1, 2, 3 should be 6: " + str(lone_sum(1, 2, 3)))
-print("lone_sum of 1, 2, 1 should be 2: " + str(lone_sum(1, 2, 1)))
-print("lone_sum of 4, 5, 6 should be 15: " + str(lone_sum(4, 5, 6)))
+        return sum
+
+#input the values of a, b and c from the user
+a=int(input("Enter the value of a :"))
+b=int(input("Enter the value of b :"))
+c=int(input("Enter the value of c :"))
+#function call
+print(lone_sum(a,b,c) )
+
