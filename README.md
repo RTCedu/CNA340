@@ -1,33 +1,38 @@
 # Project Title
-
-One Paragraph of project description goes here.
+Python Installer
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will guide on your local machine for installation a Python program into PC.
+guide line:
+
+- go on website and enter python down load.
+https://www.python.org/downloads/
+
+- click Download Python 3.11.0 for the lastest version.
+- after downloaded, setup python now or customize installation into PC.
+- then setup the program and test code "Hello World!"
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+Pyhton intallation requires Download the latest version  to run, with IDLE Shell, packages, libaries, python Launcher.
+The commands below will be need upgrade OS and install the prerequisites, or do something else according to device or PC that work with.
+such as syntax , defination, for loop function .
+example:
+for name in ["Joe", "Amy", "Brad", "Angelina", "Zuki", "Thandi", "Paris"]:
+    print("Hi", name, "Please come to my party on Saturday!")
 
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
 
 ## Running
-Once installed you can run the program with the following command
-
-```
-python cna_demo.py
-```
-
-Add any additional ways to run the program below
-
-```
-python cna_demo.py test.txt
-```
+Once installed you can run the program with the print statement and will out come with 
+the following statement:
+Hi Joe Please come to my party on Saturday!
+Hi Amy Please come to my party on Saturday!
+Hi Brad Please come to my party on Saturday!
+Hi Angelina Please come to my party on Saturday!
+Hi Zuki Please come to my party on Saturday!
+Hi Thandi Please come to my party on Saturday!
+Hi Paris Please come to my party on Saturday!
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+please attributions here. If someone need helped with another repository, or another article, provide it here.
