@@ -1,33 +1,29 @@
-# Project Title
+# Number to Letter Grade
 
-One Paragraph of project description goes here.
+This code takes a number between 0-100 and determines a letter grade for a student.
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will run this code for translating number grades to letter grades with the letterGrade.py script.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+letterGrade.py requires Python 3 to run. You can install Python 3 by following the link below.
 
 ```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
+https://www.python.org/downloads/
 ```
 
 ## Running
+
 Once installed you can run the program with the following command
 
 ```
-python cna_demo.py
+python3 letterGrade.py
 ```
 
-Add any additional ways to run the program below
-
-```
-python cna_demo.py test.txt
-```
+The program will prompt you to enter a number between 0 and 100, if you enter a number below 0 or above 100 you will be prompted again to enter a number between 0 and 100.
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+
+Thank you for checking out my code! I hope you enjoy it! I couldn't have done it without the wonderful instructors in the CNE program at Renton Technical College.
