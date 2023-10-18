@@ -1,6 +1,6 @@
 # Project Title
 
-Hello world!
+Hello from CNE310
 
 ## Getting Started
 
