@@ -59,8 +59,7 @@ print(f"My friends {name1} and {name2} are also in my class."),
 print(f"We messed around during class by hiding {noun1} in peoples'{plural_noun} and asking questions about {noun2}")
 print(f"The teacher got really {noun3} at us and told us that we have to go to the {noun4}."),
 print(f"This just made us {verb} more. It was a {adjective4} first day of school.!")
-#final_story. I don't understand why the final story is not running.
-#update. Its late but I finally have my program running. :)
+
 
 
 
